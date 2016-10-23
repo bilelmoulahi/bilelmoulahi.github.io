@@ -44,6 +44,11 @@ footer-links-active:
   linkedin: true
   stackoverflow: false
 
+share-links-active:
+  twitter: true
+  facebook: true
+  linkedin: true
+
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
 url-pretty: "bilelmoulahi.com"
@@ -59,11 +64,12 @@ google_analytics: "UA-50642243-3"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "France"
+timezone: "France/Paris"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title
 paginate: 5
+paginate_path: "/page:num/"
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
@@ -73,7 +79,10 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true  # add comments to all blog posts    
+      show-share: true # add sharing buttons to all blog posts    
+      show-subscribe: true # add subscribe email to all blog posts
+      addthis-plugin: true
   -
     scope:
       path: "" # all files
