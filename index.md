@@ -7,21 +7,6 @@ meta-title: "Bilel Moulahi"
 meta-description: "Postdoctoral Researcher at LIRMM, University of Montpellier"
 bigimg:
   - "/img/big-imgs/UMAP_2014_ebay.jpg" : "Volunteering at UMAP 2014 Conference, talk of Elizabeth Churchill, Head of eBay Research Labs, Aalborg, Denmark"
-  - "/img/big-imgs/Barcelone_20151.jpg" : "Barcelone, Spain, 2014"
-  - "/img/big-imgs/Barcelone_20152.jpg" : "Barcelone, Spain, 2014"
-  - "/img/big-imgs/Barcelone_20153.jpg" : "Barcelone, Spain, 2014"
-  - "/img/big-imgs/bestpaper_wi2015.jpg" : "Best Paper Award, WI Conference, Singapore, 2015"
-  - "/img/big-imgs/Frankfurt_2014.jpg" : "Frankfurt, Germany, 2014"
-  - "/img/big-imgs/soutenance_tagcloud.jpg" : "PhD defense, IRIT Toulouse, 2015"
-  - "/img/big-imgs/Heidelberg_20142.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/Heidelberg_2014.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/Heidelberg_1.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/Heidelberg_20143.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/Lyon_20142.jpg" : "Lyon, France, 2014"
-  - "/img/big-imgs/Lyon_20143.jpg" : "Lyon, France, 2014"
-  - "/img/big-imgs/Clermont_ferrand2012.jpg" : "Clermont Ferrand, France, 2012"
-  - "/img/big-imgs/Lyon_2014.jpg" : "Lyon, France, 2014"
-  - "/img/big-imgs/Toulouse_2011.jpg" : "Toulouse Capitole, France, 2015"
   
   
   
