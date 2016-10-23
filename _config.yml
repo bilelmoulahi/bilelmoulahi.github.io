@@ -56,7 +56,7 @@ url-pretty: "bilelmoulahi.com"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "bilelmoulahi"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-50642243-3"
