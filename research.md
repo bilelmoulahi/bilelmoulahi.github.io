@@ -9,7 +9,7 @@ title: Research work!
 
 ----
 
-Currently, I'm working on suicide detection and prevention within social networks. The aim is the design and the implementation of new methods and technologies for the early identification of individuals at risk from massive data. This Postdoc is the result of a collaboration with the Psychiatric Emergencies and Post-Acute Care of Montpellier ([CHU de Montpellier](http://www.chu-montpellier.fr/)).  
+Currently, I'm working on suicide detection and prevention within social networks. The aim is to design and implement new methods and technologies for the early identification of individuals at risk from massive data. This Postdoc is the result of a collaboration with the Psychiatric Emergencies and Post-Acute Care of Montpellier ([CHU de Montpellier](http://www.chu-montpellier.fr/)).  
 As a result, the models, tools and techniques for the detection of suicidal profiles will be used by psychiatrists to follow patients on social networks, who have stayed in their services after a first suicide attempt.
 
 My research interests include:
@@ -20,7 +20,7 @@ My research interests include:
 - Natural Language Processing
 
 **Ph.D. Thesis**
-    * [DÃ©finition et Ã©valuation de modÃ¨les d'agrÃ©gation pour l'estimation de la pertinence multi-dimensionnelle en recherche d'information.] (https://hal-univ-tlse2.archives-ouvertes.fr/tel-01249652/file/Thesis_Moulahi_2015.pdf) University of Toulouse, December 2015. ([Slides](http://www.slideshare.net/ptithacker/dfinition-et-valuation-de-modles-dagrgation-pour-lestimation-de-la-pertinence-multidimensionnelle-en-recherche-dinformation)).
+    * [Définition et évaluation de modèles d'agrégation pour l'estimation de la pertinence multi-dimensionnelle en recherche d'information.] (https://hal-univ-tlse2.archives-ouvertes.fr/tel-01249652/file/Thesis_Moulahi_2015.pdf) University of Toulouse, December 2015. ([Slides](http://www.slideshare.net/ptithacker/dfinition-et-valuation-de-modles-dagrgation-pour-lestimation-de-la-pertinence-multidimensionnelle-en-recherche-dinformation)).
 
 
 Below, some of my publications in the past few years. I will add more details about the research projects I have worked on later. 
