@@ -22,7 +22,7 @@ bigimg:
   - "/img/big-imgs/Toulouse_2011.jpg" : "Toulouse Capitole, France, 2015"
   - "/img/big-imgs/Singapore_2015.jpg" : "Toulouse Capitole, France, 2015"
   - "/img/big-imgs/escalade_2.jpg" : "Toulouse, France, 2014"
-   - "/img/big-imgs/Ainmizab_sbeitla.jpg" : "Sbeitla, Tunisia, 2013"
+  - "/img/big-imgs/Ainmizab_sbeitla.jpg" : "Sbeitla, Tunisia, 2013"
   - "/img/big-imgs/Bordeaux_2015.jpg" : "Bordeaux, France, 2015"
   - "/img/big-imgs/aalborg_2014.jpg" : "Aalborg, Denmark, 2014"
   - "/img/big-imgs/marseille_2015.jpg" : "Marseille, France, 2015"
