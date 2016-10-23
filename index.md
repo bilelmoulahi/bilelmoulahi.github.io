@@ -14,13 +14,17 @@ bigimg:
   - "/img/big-imgs/clef_2015_conference_board.jpg" : "CLEF 2015 Conference, Toulouse, France"
   - "/img/big-imgs/inforsid_2014.jpg" : "INFORSID 2014, Lyon, France"
   - "/img/big-imgs/toulouse_capitole_2014.jpg" : "Toulouse Capitole, France, 2015"
-  - "/img/big-imgs/Frankfurt-2014.jpg" : "Frankfurt, Germany, 2014"
+  - "/img/big-imgs/Frankfurt_2014.jpg" : "Frankfurt, Germany, 2014"
   - "/img/big-imgs/Neuchatel2013.jpg" : "Neuchâtel, Switzerland, 2013"
   - "/img/big-imgs/soutenance_tagcloud.jpg" : "PhD defense, IRIT Toulouse, 2015"
-  - "/img/big-imgs/Heidelberg_2-2014.jpg" : "Heidelberg, Germany, 2014"
+  - "/img/big-imgs/Heidelberg_2_2014.jpg" : "Heidelberg, Germany, 2014"
   - "/img/big-imgs/Heidelberg_2014.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/heidelberg-2014-2.jpg" : "Heidelberg, Germany, 2014"
-  - "/img/big-imgs/Lyon-2014.jpg" : "Lyon, France, 2014"
+  - "/img/big-imgs/heidelberg_2014_2.jpg" : "Heidelberg, Germany, 2014"
+  - "/img/big-imgs/Lyon_2014_2.jpg" : "Lyon, France, 2014"
+  - "/img/big-imgs/Lyon_2014_3.jpg" : "Lyon, France, 2014"
+  - "/img/big-imgs/Lyon_2014.jpg" : "Lyon, France, 2014"
+  - "/img/big-imgs/Clermont_ferrand_2012.jpg" : "Clermont Ferrand, France, 2012" 
+  
   
 ---
 
