@@ -32,7 +32,6 @@ bigimg:
   - "/img/big-imgs/toulouse_2014.jpg" : "Toulouse, France, 2014"
   - "/img/big-imgs/toulouse_2015.jpg" : "Toulouse, France, 2015"
   - "/img/big-imgs/toulouse_staduim.jpg" : "Toulouse, France, 2016"
-
   
 ---
 
