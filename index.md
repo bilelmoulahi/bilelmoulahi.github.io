@@ -20,8 +20,9 @@ bigimg:
   - "/img/big-imgs/Lyon_20142.jpg" : "Lyon, France, 2014"
   - "/img/big-imgs/Lyon_20143.jpg" : "Lyon, France, 2014"
   - "/img/big-imgs/Clermont_ferrand2012.jpg" : "Clermont Ferrand, France, 2012"
-  - "/img/big-imgs/Lyon_2014.jpg" : "Lyon, France, 2014"
   - "/img/big-imgs/Toulouse_2011.jpg" : "Toulouse Capitole, France, 2015"
+  - "/img/big-imgs/Lyon_2014.jpg" : "Lyon, France, 2014"
+
   
   
   
