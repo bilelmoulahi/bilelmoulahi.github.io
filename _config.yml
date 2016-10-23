@@ -1,3 +1,4 @@
+encoding: UTF-8
 # --- Serving options --- #
 # If you are building a simple GitHub user page (username.github.io) then use these settings:
 # url is the full website URL
