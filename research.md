@@ -20,7 +20,7 @@ My research interests include:
 - Natural Language Processing
 
 **Ph.D. Thesis**
-    * [DÈfinition et Èvaluation de modËles d'agrÈgation pour l'estimation de la pertinence multi-dimensionnelle en recherche d'information.] (https://hal-univ-tlse2.archives-ouvertes.fr/tel-01249652/file/Thesis_Moulahi_2015.pdf) University of Toulouse, December 2015. ([Slides](http://www.slideshare.net/ptithacker/dfinition-et-valuation-de-modles-dagrgation-pour-lestimation-de-la-pertinence-multidimensionnelle-en-recherche-dinformation)).
+    * [D√©finition et √©valuation de mod√®les d'agr√©gation pour l'estimation de la pertinence multi-dimensionnelle en recherche d'information.] (https://hal-univ-tlse2.archives-ouvertes.fr/tel-01249652/file/Thesis_Moulahi_2015.pdf) University of Toulouse, December 2015. ([Slides](http://www.slideshare.net/ptithacker/dfinition-et-valuation-de-modles-dagrgation-pour-lestimation-de-la-pertinence-multidimensionnelle-en-recherche-dinformation)).
 
 
 Below, some of my publications in the past few years. I will add more details about the research projects I have worked on later. 
@@ -30,7 +30,7 @@ Below, some of my publications in the past few years. I will add more details ab
     * [When time meets information retrieval: Past proposals, current plans and future trends.]( https://www.irit.fr/publis/IRIS/JIS2016_MTB.pdf) In: Journal of Information Science, SAGE Publications, 2016.
     * [iAggregator: Multidimensional Relevance Aggregation Based on a Fuzzy Operator.](https://www.irit.fr/publis/SIG/Moulahi_et_al_Jasist2014.pdf) In : Journal of the Association for Information Science and Technology (JASIST), Wiley, Vol. 64 N. 10, p. 2062-2083, 2014. 
 1. **French Journals**
-	* [Estimation de la pertinence multidimensionnelle en recherche d'information : Èvaluation de l'application d'un opÈrateur flou d'agrÈgation.](https://www.irit.fr/publis/IRIS/RevueDN2016_MTB.pdf) In : Document NumÈrique, HermËs, Vol. 19, N. 1, p. 59-82, 2016. 
+	* [Estimation de la pertinence multidimensionnelle en recherche d'information : √©valuation de l'application d'un op√©rateur flou d'agr√©gation.](https://www.irit.fr/publis/IRIS/RevueDN2016_MTB.pdf) In : Document Num√©rique, Herm√®s, Vol. 19, N. 1, p. 59-82, 2016. 
 1. **Book Chapters**
     * Hidden Markov Models for context-aware tag query prediction in Folksonomies. In Collaboration and the Semantic Web: Social Networks, Knowledge Networks, and Knowledge Resources, pages 168--190. IGI Global, 2012.
 1. **International Conferences**
@@ -44,8 +44,8 @@ Below, some of my publications in the past few years. I will add more details ab
     * [IRIT at TREC Microblog 2015 (regular paper)](http://trec.nist.gov/act_part/conference/papers/IRIT-MB.pdf). In : Text REtrieval Conference (TREC 2015), National Institute of Standards and Technology (NIST), Gaithersburg, Maryland USA, 2015. 
     * [IRIT at TREC 2014 Contextual Suggestion Track  (regular paper)](http://trec.nist.gov/pubs/trec23/papers/pro-IRIT_cs.pdf). In Text REtrieval Conference (TREC 2014), National Institute of Standards and Technology (NIST), Gaithersburg, Maryland USA, 2015.
 1. **Peer-Reviewed French Conferences**
-    * [Prise en compte des prÈfÈrences des utilisateurs pour l'estimation de la pertinence multidimensionnelle d'un document (regular paper)](http://inforsid.fr/Lyon2014/wp-content/uploads/papiers/18_paper_42.pdf). In : INFormatique des Organisations et Systemes d'Information et de Decision (INFORSID 2014), Lyon, HermËs, p. 295-310, 2014.  
-    * [L'intÈgrale de Choquet discrËte pour l'agrÈgation de pertinence multidimensionnelle (regular paper)](http://coria.unine.ch/coria/coria2013_64.pdf). In: ConfÈrence francophone en Recherche d'Information et Applications (CORIA 2013), Neuch‚tel, Suisse, Association Francophone de Recherche d'Information et Applications (ARIA), 2013.
+    * [Prise en compte des pr√©f√©rences des utilisateurs pour l'estimation de la pertinence multidimensionnelle d'un document (regular paper)](http://inforsid.fr/Lyon2014/wp-content/uploads/papiers/18_paper_42.pdf). In : INFormatique des Organisations et Systemes d'Information et de Decision (INFORSID 2014), Lyon, Herm√®s, p. 295-310, 2014.  
+    * [L'int√©grale de Choquet discr√®te pour l'agr√©gation de pertinence multidimensionnelle (regular paper)](http://coria.unine.ch/coria/coria2013_64.pdf). In: Conf√©rence francophone en Recherche d'Information et Applications (CORIA 2013), Neuch√¢tel, Suisse, Association Francophone de Recherche d'Information et Applications (ARIA), 2013.
     
 
 

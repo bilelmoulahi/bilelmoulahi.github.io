@@ -13,7 +13,7 @@ bigimg:
   - "/img/big-imgs/inforsid_2014.jpg" : "INFORSID 2014, Lyon, France"
   - "/img/big-imgs/toulouse_capitole_2014.jpg" : "Toulouse Capitole, France, 2015"
   - "/img/big-imgs/Frankfurt-2014.jpg" : "Frankfurt, Germany, 2014"
-  - "/img/big-imgs/Neuchatel2013.JPG" : "Neuch‚tel, Switzerland, 2013"
+  - "/img/big-imgs/Neuchatel2013.JPG" : "Neuch√¢tel, Switzerland, 2013"
   - "/img/big-imgs/soutenance_tagcloud.jpg" : "PhD defense, IRIT Toulouse, 2015"
   - "/img/big-imgs/Heidelberg_2-2014.jpg" : "Heidelberg, Germany, 2014"
   - "/img/big-imgs/Heidelberg_2014.jpg" : "Heidelberg, Germany, 2014"
@@ -21,7 +21,7 @@ bigimg:
   - "/img/big-imgs/Lyon-2014.jpg" : "Lyon, France, 2014"
 ---
 
-I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. JÈrÙme AzÈ and Prof. Sandra Bringay. [... More](aboutme)
+I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. J√©r√¥me Az√© and Prof. Sandra Bringay. [... More](aboutme)
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
