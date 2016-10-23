@@ -7,9 +7,7 @@ meta-title: "Bilel Moulahi"
 meta-description: "Postdoctoral Researcher at LIRMM, University of Montpellier"
 bigimg:
   - "/img/big-imgs/UMAP_2014_ebay.jpg" : "Volunteering at UMAP 2014 Conference, talk of Elizabeth Churchill, Head of eBay Research Labs, Aalborg, Denmark"
-  
-  
-  
+
   
 ---
 
