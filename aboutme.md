@@ -4,7 +4,7 @@ layout: page
 
 ##  Postdoctoral Researcher, ADVanced Analytics for data SciencE team, [LIRMM](http://www.lirmm.fr/)
 
-Since September 2016, I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. Jérôme Azé and Prof. Sandra Bringay. 
+Since September 2016, I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. JÃ©rÃ´me AzÃ© and Prof. Sandra Bringay. 
 
 I received my Ph.D. in Computer Science from the University of Toulouse Paul Sabatier in December 2015, within the IRIS team at the [IRIT laboratory](http://www.irit.fr). I was fortunate to be supervised by Prof. Lynda Tamine and Prof. Sadok Ben Yahia. 
 During my PhD, I have worked on multi-criteria relevance estimation and temporal information retrieval. In particular, my research focused on the definition and evaluation of information retrieval models for the combination of multidimensional relevance estimates in IR applications such as social search personalized and temporal IR. I have participated to many evaluation campaigns including TREC (Text Retrieval Conference) Contextual Suggestion track, TREC Temporal Summarization track, TREC Microblog track, SemEval (International Workshop on Semantic Evaluation) task and very recently, the TREC Real-Time Summarization Track. 
