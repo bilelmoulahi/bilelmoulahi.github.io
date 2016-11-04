@@ -29,7 +29,7 @@ bigimg:
   
 ---
 
-I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. Jérôme Azé Prof. Sandra Bringay. [... More](aboutme)
+I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. [Jérôme Azé](https://www.lirmm.fr/users/utilisateurs-lirmm/jerome-aze) and Prof. [Sandra Bringay](https://www.lirmm.fr/users/utilisateurs-lirmm/sandra-bringay). [... More](aboutme)
 
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
