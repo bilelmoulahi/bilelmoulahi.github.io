@@ -3,8 +3,8 @@ layout: page
 title: Bilel Moulahi
 subtitle: Postdoctoral Researcher, ADVanced Analytics for data SciencE team
 css: "/css/index.css"
-meta-title: "Bilel Moulahi"
-meta-description: "Postdoctoral Researcher at LIRMM, University of Montpellier"
+meta-title: "Bilel Moulahi, Postdoctoral Researcher, ADVanced Analytics for data SciencE team"
+meta-description: "Postdoctoral Researcher at LIRMM, University of Montpellier. PhD in Information Retrieval from IRIT Toulouse."
 bigimg:
   - "/img/big-imgs/UMAP_2014_ebay.jpg" : "Volunteering at UMAP 2014 Conference, talk of Elizabeth Churchill, Head of eBay Research Labs, Aalborg, Denmark"
   - "/img/big-imgs/Barcelone_20151.jpg" : "Barcelone, Spain, 2014"
