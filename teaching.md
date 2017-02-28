@@ -7,7 +7,7 @@ As part of my Ph.D., I was employed as a teaching assistant at [University of To
 
 I taught the following courses:
 
-<ul> <b>2016-2017, <a href =""http://www.univ-montp3.fr">University Paul-Valéry Montpellier 3 </a> </b>
+<ul> <b>2016-2017, <a href ="http://www.univ-montp3.fr">University Paul-Valéry Montpellier 3 </a> </b>
 	<ul> 
 		<li><a href="http://ufr6.univ-montp3.fr/index.php/licences/94-categorie-licences-miashs" title="L3 miashs">Bachelor students (L3 - Mathematics and Computer Science for Humanities and Social Sciences)</a></li>
 		<ul> <li> Relational Algebra, SQL (Lecture, Lab works) </li> </ul> 
