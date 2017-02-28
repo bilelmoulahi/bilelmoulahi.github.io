@@ -12,6 +12,10 @@ title: Research Interests
 Currently, I'm working on suicide detection and prevention within social networks. The aim is to design and implement new methods and technologies for the early identification of individuals at risk from massive data. This Postdoc is the result of a collaboration with the Psychiatric Emergencies and Post-Acute Care of Montpellier ([CHU de Montpellier](http://www.chu-montpellier.fr/)).  
 As a result, the models, tools and techniques for the detection of suicidal profiles will be used by psychiatrists to follow patients on social networks, who have stayed in their services after a first suicide attempt.
 
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<i class='fa fa-bell faa-ring animated fa-1x'>  New </i> :  the <a href = "http://advanse.lirmm.fr/dontdoit/">website of our project </a> is up, check it out for more details. 
+
 My research interests include:
 
 - Information Retrieval and Text Mining
