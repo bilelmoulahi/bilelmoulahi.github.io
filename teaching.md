@@ -7,14 +7,14 @@ As part of my Ph.D., I was employed as a teaching assistant at [University of To
 
 I taught the following courses:
 
-<ul> <b><a href ="www.univ-montp3.fr">University Paul-Valéry Montpellier 3 </a> (2016-2017) </b>
+<ul> <b>2016-2017, <a href =""http://www.univ-montp3.fr">University Paul-Valéry Montpellier 3 </a> </b>
 	<ul> 
 		<li><a href="http://ufr6.univ-montp3.fr/index.php/licences/94-categorie-licences-miashs" title="L3 miashs">Bachelor students (L3 - Mathematics and Computer Science for Humanities and Social Sciences)</a></li>
 		<ul> <li> Relational Algebra, SQL (Lecture, Lab works) </li> </ul> 
 	</ul>
 </ul>
 
-<ul> <b> <a href="www.ut-capitole.fr">University of Toulouse I Capitole</a> (2015-2016) </b>	
+<ul> <b> 2015-2016, <a href="http://www.ut-capitole.fr">University of Toulouse I Capitole</a> </b>	
 	<ul> 
 		<li><a href="http://www.ut-capitole.fr/formations/nos-diplomes/licences/licence-l1-l2-mention-economie-parcours-economie-et-gestion-310345.kjsp" title="L2 Eco Management">Bachelor students (L2 - Economy Management)</a></li>
 			<ul> <li> Relational Algebra, SQL (Lab works) </li>  </ul> 
@@ -25,7 +25,7 @@ I taught the following courses:
 	</ul>
 </ul>
 
-<ul> <b>University of Toulouse III Paul Sabtier, <a href ="http://www.licinfo.ups-tlse.fr">Faculty of Science and Engineering</a> (2014-2015)</b>
+<ul> <b>2014-2015, University of Toulouse III Paul Sabtier, <a href ="http://www.licinfo.ups-tlse.fr">Faculty of Science and Engineering</a></b>
 	<ul>
 		<li><a href="http://licinfo.deptinfo.fr/" title="L2 Info">Bachelor students (L2 Info)</a></li>
 			<ul> 
@@ -47,14 +47,14 @@ I taught the following courses:
 	</ul>
 </ul>
 
-<ul> <b>University of Toulouse III Paul Sabtier, <a href="http://tc.iut-tarbes.fr/index.php">IUT Tarbes</a> (2013-2014)</b>
+<ul> <b>2013-2014, University of Toulouse III Paul Sabtier, <a href="http://tc.iut-tarbes.fr/index.php">IUT Tarbes</a> </b>
 	<ul> 
 		<li><a href="http://tc.iut-tarbes.fr/index.php" title="L2 tc">Bachelor students (L2 Technical Marketing)</a></li>
 		<ul> <li>  Database management (Lab works) </li></ul> 
 	</ul>
 </ul>
 
-<ul> <b>University of Tunis El Manar, <a href = "http://www.fst.rnu.tn/">Faculty of Science of Tunisia </a> (2011-2013)</b>
+<ul> <b>2011-2013, University of Tunis El Manar, <a href = "http://www.fst.rnu.tn/">Faculty of Science of Tunisia </a></b>
 <ul> 
 	<li><a href="http://www.fst.rnu.tn/fr/" title="L2 Math">Bachelor students (L1)</a></li>
 	<ul> <li> S1 -Lecture on Algorithms and data structure </li></ul> 
