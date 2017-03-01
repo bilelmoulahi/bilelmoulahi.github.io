@@ -2,7 +2,8 @@
 layout: page
 ---
 
-##  Postdoctoral Researcher, ADVanced Analytics for data SciencE team, [LIRMM](http://www.lirmm.fr/)
+
+## Postdoctoral Researcher, ADVanced Analytics for data SciencE team, [LIRMM](http://www.lirmm.fr/)
 
 Since September 2016, I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. 
 Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. [Jérôme Azé](https://www.lirmm.fr/users/utilisateurs-lirmm/jerome-aze) and Prof. [Sandra Bringay](https://www.lirmm.fr/users/utilisateurs-lirmm/sandra-bringay). 
@@ -31,5 +32,5 @@ My CV can be found [here](resources/CV.pdf).
 * [ResearchGate](https://www.researchgate.net/profile/Bilel_Moulahi)
 * [LinkedIn](https://www.linkedin.com/in/bilelmoulahi)
 * [Twitter](https://www.twitter.com/bilelmoulahi)
-* [https://www.moulahi.com](http://www.moulahi.com)
+* [moulahi.com](https://www.moulahi.com)
 
