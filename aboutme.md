@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-## Postdoctoral Researcher, ADVanced Analytics for data SciencE team, [LIRMM](http://www.lirmm.fr/)
+### Postdoctoral Researcher, ADVanced Analytics for data SciencE team - [LIRMM](http://www.lirmm.fr/)
 
 Since September 2016, I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Robotics and Microelectronics (LIRMM), Montpellier University, France. 
 Actually, I'm a member of the ADVanced Analytics for data SciencE ([ADVANSE](https://www.lirmm.fr/recherche/equipes/advanse)) team under the direction of Prof. [Jérôme Azé](https://www.lirmm.fr/users/utilisateurs-lirmm/jerome-aze) and Prof. [Sandra Bringay](https://www.lirmm.fr/users/utilisateurs-lirmm/sandra-bringay). 
@@ -15,6 +15,9 @@ Prior to my PhD I have worked on social network analysis and data mining applica
 
 Currently, I'm working on suicide detection and prevention within social networks. The aim is the design and the implementation of new methods and technologies for the early identification of individuals at risk from massive data. This Postdoc is the result of a collaboration with the Psychiatric Emergencies and Post-Acute Care of Montpellier ([CHU de Montpellier](http://www.chu-montpellier.fr/)).  
 As a result, the models, tools and techniques for the detection of suicidal profiles will be used by psychiatrists to follow patients on social networks, who have stayed in their services after a first suicide attempt.
+
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<i class='fa fa-bell faa-ring animated fa-1x'>  New </i> :  the <a href = "http://advanse.lirmm.fr/dontdoit/">website of our project </a> is up, check it out for more details. 
 
 My CV can be found [here](resources/CV.pdf).
 
