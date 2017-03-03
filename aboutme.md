@@ -20,7 +20,7 @@ As a result, the models, tools and techniques for the detection of suicidal prof
 <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 <i class='fa fa-bell faa-ring animated fa-1x'>  New </i> :  the <a href = "http://advanse.lirmm.fr/dontdoit/">website of our project </a> is up, check it out for more details. 
 
-My CV can be found [here](resources/CV.pdf).
+My CV can be found [here (English)](resources/CV.pdf) ([CV] (resources/CVfr.pdf) in French). 
 
 
 ### Contact
@@ -31,7 +31,7 @@ My CV can be found [here](resources/CV.pdf).
 * [bilel.moulahi@lirmm.fr](mailto:moulahi@lirmm.fr)
 
 ### Profiles
-* [CV](resources/CV.pdf)
+* [CV](resources/CV.pdf) - [CV in French](resources/CVfr.pdf)
 * [LIRMM home page](http://www.lirmm.fr/~moulahi)
 * [ResearchGate](https://www.researchgate.net/profile/Bilel_Moulahi)
 * [LinkedIn](https://www.linkedin.com/in/bilelmoulahi)
