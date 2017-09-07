@@ -21,7 +21,7 @@ navbar-links:
   Teaching: "teaching"
   Awards: "awards"
   About/Contact: "aboutme"
-  Personal: "personal"
+  #Personal: "personal"
   Home: ""
 
 # --- Footer options --- #
