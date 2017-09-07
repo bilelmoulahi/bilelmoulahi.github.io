@@ -31,7 +31,8 @@ My CV can be found [here (English)](resources/CV.pdf) or [here in French](resour
 * [bilel.moulahi@lirmm.fr](mailto:moulahi@lirmm.fr)
 
 ### Profiles
-* [CV](resources/CV.pdf) - [CV in French](resources/CVfr.pdf)
+* [CV in French](resources/CVfr.pdf) (Last update: August 2017)
+
 * [LinkedIn](https://www.linkedin.com/in/bilelmoulahi)
 * [Twitter](https://www.twitter.com/bilelmoulahi)
 * [moulahi.com](https://www.moulahi.com)
