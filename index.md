@@ -31,5 +31,5 @@ I am a Postdoctoral Researcher at the Montpellier Laboratory of Informatics, Rob
 <div style="text-align:center">
 <strong>Quick Links:</strong> &nbsp;&nbsp; 
 <!-- <a href="https://www.linkedin.com/in/bilelmoulahi" role="button" class="btn btn-primary">LinkedIn</a>--> 
-<a href ="resources/CVfr.pdf">CV in French </a> (Last update: August 2017)
+<a href ="resources/CVfr.pdf">CV in French </a> (Last update: March 2018)
 </div>
